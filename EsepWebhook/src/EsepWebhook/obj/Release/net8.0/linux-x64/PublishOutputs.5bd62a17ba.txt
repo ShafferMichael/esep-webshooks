@@ -3,4 +3,5 @@
 /Users/michaelshaffer/code/assignment9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
 /Users/michaelshaffer/code/assignment9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
 /Users/michaelshaffer/code/assignment9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/michaelshaffer/code/assignment9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
 /Users/michaelshaffer/code/assignment9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
